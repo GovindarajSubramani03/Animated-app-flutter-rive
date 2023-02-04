@@ -1,6 +1,6 @@
 # rive_animation
 
-A new Flutter project.
+A new Flutter project using flutter and rive for animation.
 
 ## Getting Started
 
